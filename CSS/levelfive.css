@@ -1,0 +1,13 @@
+h1{
+  font-family:cursive;
+  font-style: oblique;
+  font-stretch: condensed;
+}
+
+p{
+  font-family: monospace;
+}
+
+body{
+  font-size: 10px;
+}

@@ -1,0 +1,11 @@
+body{
+  background-color: BLUE;
+}
+
+div{
+  background-color: Green;
+  border-color: black;
+  border-radius: 10px;
+  border-width: 5px;
+  border-style: dashed;
+}

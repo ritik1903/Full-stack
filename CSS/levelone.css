@@ -1,0 +1,19 @@
+/* THis is the comment */
+/* Basic syntax of CSS */
+
+
+/*Selected Tag{
+  Property :Value;
+} */
+
+h1{
+  color:Blue;
+}
+
+ol{
+  color:Red;
+}
+
+h4{
+  color:Green;
+}
